@@ -100,17 +100,17 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 120vmax;
+	height: 100vh;
 	font-family: 'Open Sans', serif;
     	border: 1px solid #ccc;
 	border-radius: 2;
 	background-image: url("Mappa.png");
-    	background-size: auto 100%; 
-	background-repeat: repeat-y;
+    	background-size: cover; 
+	background-repeat: no-repeat;
 	background-position: center;
         padding: 10px; /* Aggiunge del padding all'interno della scheda */
 	box-sizing: border-box; /* Assicura che il padding sia incluso nelle dimensioni totali della scheda */
-        width: auto; /* Imposta la larghezza automaticamente in base al contenuto */
+        width: 100%; /* Imposta la larghezza automaticamente in base al contenuto */
 	/* max-width: 90%; Limita la larghezza massima della scheda */
 	margin: 0 auto;
         }

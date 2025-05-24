@@ -136,8 +136,25 @@
     overflow-wrap: break-word; /* Permette al testo di andare a capo se supera la larghezza massima */
 		/* padding-top: 3vh; */
 }	
-
-
+.card-title-contatti{
+	/* position: relative;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-top: 10vh; */
+    font-family: 'Tangerine', serif;
+	font-size: 210%;
+	text-align: center;
+	width: fit-content;
+	color: #627636;
+	margin: 0 auto;
+}
+.card-text-contatti{
+    font-family: 'Belleza';
+    font-size: 100%;
+	max-width: 100%; /* Imposta la larghezza massima al 100% del contenitore */
+    overflow-wrap: break-word; /* Permette al testo di andare a capo se supera la larghezza massima */
+		/* padding-top: 3vh; */
+}	
 .custom-card {
     font-family: 'Open Sans', serif;
     font-size: 100%;

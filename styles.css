@@ -30,8 +30,8 @@
             color: white;
             padding: 7px 10px;
 		border-radius: 0 20px;
-            background-color: rgba(184, 155, 48, 1);
-		border: 0.5px solid rgba(184, 155, 48, 1); /* Cambia il colore della cornice a nero */
+            background-color: rgba(199, 164, 119, 1);
+		border: 0.5px solid rgba(199, 164, 119, 1); /* Cambia il colore della cornice a nero */
         }
 	
 	.dropdown-empty .dropbtn-empty {
@@ -39,11 +39,11 @@
 		font-size: 75%;
             /*border: none;
             outline: none;*/
-            color: rgba(245,255,222,0);
+            color: rgba(199, 164, 119, 1);
             padding: 14px 20px;
 		border-radius: 0 20px;
-            	background-color: rgba(245,255,222,0);;
-		border: 1px solid rgba(245,255,222,0); 
+            	background-color: rgba(199, 164, 119, 1);;
+		border: 1px solid rgba(199, 164, 119, 1); 
         }
 	
 
@@ -59,7 +59,7 @@
 	    right: 0;
 	font-size: 100%;
 	color: black;
-        background-color:rgba(245,255,222,1);
+        background-color:rgba(199, 164, 119, 1);
         min-width: 200px;
         box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
         z-index: 1000;

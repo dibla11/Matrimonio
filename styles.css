@@ -189,7 +189,7 @@ h1{
             display: flex;
             justify-content: center;
 		font-size: 100%;
-	background: rgba(184, 155, 48, 1);
+	background: rgba(199, 164, 119, 1);
 	 border: 1px solid rgba(184, 155, 48, 1); /* Cambia il colore della cornice a nero */
         }
 	
